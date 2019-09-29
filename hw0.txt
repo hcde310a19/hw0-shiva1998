@@ -1,3 +1,7 @@
 # Description of your program (part 7)
 
+To count the number of words in a document, a computer program must first input the document into the program. Then break the document into different words based on the indication of a space(" "), and then store all the words in an array. Create a new variable called words, and iterate through the array of words using a for loop and increment the value of words by 1 for every iteration made by the for loop. Finally print the variable words to see the total number of words.
+
 # Reflection on writing your program (part 8)
+
+The previous exercise seemed easy for me. Writing down the instructions gave me a clear understanding of how the program would would work to count the number of words in a document. I want to get better at Python, and learn more about APIs and their significance and uses. 
